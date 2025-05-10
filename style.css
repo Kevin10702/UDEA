@@ -36,15 +36,8 @@ header ul li{
 }
 
 img{ 
-    width: 450px;
+    width: 950px;
     height: 90px;
-    @media(max-width:600px){
-
-}
-
-@media(min-width:600px){
-
-}
 } 
 
 h1{
@@ -89,7 +82,7 @@ p{
  .contenedor img{
     display: flex;
     flex-direction: row;
-    width: 480px;
+    width: 980px;
     height: 380px;
     border-radius: 50%;
     border-style:double;
